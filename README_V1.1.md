@@ -1,3 +1,9 @@
+# 📂 Navegación del Proyecto
+[🏠 Versión Actual (v1.1)](README_V1.1.md) | [📜 Versión Antigua (v1.0)](README.md)
+
+---
+
+
 # 🐾 GATO_TASKBAR v1.1
 
 ![Version](https://img.shields.io/badge/Version-1.1-blueviolet?style=for-the-badge)
