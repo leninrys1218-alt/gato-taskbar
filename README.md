@@ -1,3 +1,8 @@
+# 📂 Navegación del Proyecto
+[🏠 Versión Actual (v1.1)](README_V1.1.md) | [📜 Versión Antigua (v1.0)](README.md)
+
+---
+
 🐾 GATO_TASKBAR v1.0
 Dale vida a tu escritorio con un pequeño compañero. Este proyecto añade un gatito animado que se desplaza por tu barra de tareas, haciendo que tu entorno de trabajo sea mucho más ameno y visualmente agradable.
 
